@@ -59,7 +59,7 @@ scrcpy --display $displayID
 
 ## 效果
 
-<video src="media/22022-03-18_04-06-48.mkv" controls="controls">
+<video src="https://github.com/duzhaokun123/test-virtual-display/blob/main/media/2022-03-18_04-06-48.mkv?raw=true" controls="controls">
 media/22022-03-18_04-06-48.mkv
 </video>
 
