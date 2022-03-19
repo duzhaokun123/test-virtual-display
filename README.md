@@ -63,7 +63,7 @@ scrcpy --display $displayID
 
 ## 效果
 
-[此处应有视频](media/22022-03-18_04-06-48.mkv)
+[此处应有视频](https://github.com/duzhaokun123/test-virtual-display/blob/main/media/2022-03-18_04-06-48.mkv)
 
 ## 已知问题
 
