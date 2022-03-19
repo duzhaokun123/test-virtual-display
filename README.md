@@ -5,6 +5,10 @@
 
 VirtualDisplay 配合 scrcpy 简单实现多窗口镜像
 
+## 更新
+
+- 添加了广播操作
+
 ## 起因
 
 先是在B站看到了[这个视频](https://www.bilibili.com/video/BV1V34y1k71y)
@@ -59,9 +63,7 @@ scrcpy --display $displayID
 
 ## 效果
 
-<video src="https://github.com/duzhaokun123/test-virtual-display/blob/main/media/2022-03-18_04-06-48.mkv?raw=true" controls="controls">
-media/22022-03-18_04-06-48.mkv
-</video>
+[此处应有视频](media/22022-03-18_04-06-48.mkv)
 
 ## 已知问题
 
